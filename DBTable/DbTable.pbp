@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://www.purebasic.com/namespace" version="1.0" creator="PureBasic 5.50 (Windows - x64)">
+  <section name="config">
+    <options closefiles="1" openmode="0" name="Nouveau projet"/>
+  </section>
+  <section name="data">
+    <explorer view="" pattern="0"/>
+    <log show="1"/>
+    <lastopen date="2016-09-10 17:12" user="microdev" host="MICRODEV-PC"/>
+  </section>
+  <section name="files">
+    <file name="Teste.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="eb02772ecc721ff19d97e539ad94ae6d"/>
+    </file>
+    <file name="Tbl.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="ccd55a433dadbc69731b49cd3284f23e"/>
+    </file>
+  </section>
+  <section name="targets">
+    <target name="Cible par défaut" enabled="1" default="1">
+      <inputfile value="Teste.pb"/>
+      <outputfile value=""/>
+      <options xpskin="1" debug="1"/>
+    </target>
+  </section>
+</project>
